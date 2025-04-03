@@ -16,7 +16,7 @@ ardından **apk'yıda indirdiğinizde kurulmuş oluyor**
 
 **İyi oyunlar**
 
-*7 saat fln çeviri sistemine uğraştım .d işinize yaradıysa bir dua ederseniz veya projeyi starlarsanız fena olmaz .d*
+*7 saat fln çeviri sistemine uğraştım .d işinize yaradıysa videoyu beğenirseniz veya projeyi starlarsanız fena olmaz .d*
 
 # İndirmek için
 https://github.com/DeveloperKubilay/warband-android/releases/tag/Latest
