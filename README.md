@@ -1,5 +1,6 @@
 # TR
 
+Telefonumu güncellediğim için android 15 te çalışmıyor, o yüzden fotoğraf ekleyemedim.
 # warband-android
 Yaptığım şey warband'ın telefon verisonunda **türkçe yama** yapmak
 Türkçe olan oyunu nie türkçeye çevirdin diceksiniz oyunun ayarlar dosyasını bulamadım
@@ -27,6 +28,8 @@ https://github.com/DeveloperKubilay/warband-android/releases/tag/Latest
 # EN
 
 # warband-android
+
+Since I updated my phone, it doesn't work on Android 15, so I couldn't add a photo.
 
 What I made is a **Turkish patch** for the mobile version of Warband.  
 You might ask, "Why did you translate an already Turkish game?" — I couldn't find the game's settings file.  
