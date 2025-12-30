@@ -1,6 +1,6 @@
-# TR
-
 ![oyunicifoto](https://github.com/user-attachments/assets/ba97fe1d-b863-4a0d-83d6-8447ba300cb3)
+
+# TR
 
 # warband-android
 Yaptığım şey warband'ın telefon verisonunda **türkçe yama** yapmak
