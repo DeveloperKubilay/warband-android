@@ -1,6 +1,7 @@
 # TR
 
-Telefonumu güncellediğim için android 15 te çalışmıyor, o yüzden fotoğraf ekleyemedim.
+![oyunicifoto](https://github.com/user-attachments/assets/ba97fe1d-b863-4a0d-83d6-8447ba300cb3)
+
 # warband-android
 Yaptığım şey warband'ın telefon verisonunda **türkçe yama** yapmak
 Türkçe olan oyunu nie türkçeye çevirdin diceksiniz oyunun ayarlar dosyasını bulamadım
